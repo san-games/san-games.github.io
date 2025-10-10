@@ -1,3 +1,5 @@
+title: SAN Games Unlimited
+layout: default
 Privacy Policy
 
 This SERVICE is provided by SAN Games at no cost and is intended for use as is.
