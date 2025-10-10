@@ -68,6 +68,6 @@ These Services do not address anyone under the age of 13. We do not knowingly co
 
 ## Contact Us
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at **{{ page.contact_email }}**.
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at <a href="mailto:insane.nna@gmail.com">**{{ page.contact_email }}**</a>.
 
 _Last updated: {{ page.last_updated }}_
