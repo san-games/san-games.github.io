@@ -1,6 +1,6 @@
 ---
 title: Privacy Policy
-layout: page
+layout: default
 last_updated: 2025-10-10
 company: "SAN Games Unlimited"
 app_name: "Zombie Jam"
