@@ -1,5 +1,6 @@
 ---
 title: Privacy Policy
+description: SAN Games Unlimited
 layout: default
 last_updated: 2025-10-10
 company: "SAN Games Unlimited"
